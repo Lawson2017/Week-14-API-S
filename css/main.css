@@ -1,0 +1,33 @@
+html { 
+  background: url(../img/bigbasin.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#googleMap {
+	width: 500px;
+	height: 380px;
+	margin-top: 6%;
+	margin-left: 48%;
+	background-image: : transparent;
+} 	
+ h1 {
+ 	text-align: center;
+ 	margin-top: 1%;
+ 	font-family: 'Indie Flower', cursive;
+ }
+
+ body {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: transparent;
+}
+
+span {
+	font-size: 1.2em
+}
